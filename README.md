@@ -1,7 +1,7 @@
 # GDP_Forecasting_Project
 This repository contains files related to GDP foreasting project done for an economy research consultancy.
 The Papers folder of this repository contains the data collected to prepare the research proposal.
-The other files and tables in this repository were used during the research proposal stage.
+The PropsalStage folder contains the files used during the research proposal stage.
 # GDP Forecasting Research Database
 
 A relational database of academic research focused on GDP forecasting and the use of data science techniques in this domain. This repository includes a comprehensive Excel table with embedded hyperlinks to published research papers, a bubble graphic illustrating the overlap between traditional econometric methods and data science methods, and relevant definitions and acronym references.
