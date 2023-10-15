@@ -7,6 +7,10 @@ The PropsalStage folder contains the files used during the research proposal sta
 
 - [Papers](#Papers)
 - [ProposalStage](#ProposalStage)
+- [Database Information.docx](#DatabaseInformation.docx)
+- [Database Relationships.png](#DatabaseRelationships.png)
+- [Database.xlsx](#Database)
+- [Three-set Venn Diagram](#Three-setVennDiagram)
   
 ## GDP Forecasting Research Database
 
