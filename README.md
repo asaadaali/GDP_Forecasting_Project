@@ -4,7 +4,7 @@ The Papers folder of this repository contains the data collected to prepare the 
 The PropsalStage folder contains the files used during the research proposal stage.
 # GDP Forecasting Research Database
 
-A relational database of academic research focused on GDP forecasting and the use of data science techniques in this domain. This repository includes a comprehensive Excel table with embedded hyperlinks to published research papers, a bubble graphic illustrating the overlap between traditional econometric methods and data science methods, and relevant definitions and acronym references.
+A relational database of academic research focused on GDP forecasting and the use of data science techniques in this domain. This repository includes a comprehensive Excel table (named "Database.xlsx") with embedded hyperlinks to published research papers, a bubble graphic illustrating the overlap between traditional econometric methods and data science methods, and relevant definitions and acronym references.
 
 ## Table of Contents
 
